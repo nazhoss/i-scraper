@@ -9,9 +9,9 @@
 ### pixelsport
 - ```https://pixelsport-scraper.vercel.app/pixelsport``` 🟢 ```(Working as of 2025-03-06)```
 ### aesport
-- ```https://aesport-scraper.vercel.app/aesport``` 🟢 ```(Working as of 2025-03-06)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-03-06)```
 ### nizarstream
-- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-06)```
+- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🔴 ```(Not working as of 2025-03-06)```
 ### streameast
 - ```https://streameast-scraper.vercel.app/streameast``` 🟢 ```(Working as of 2025-03-06)```
 ---

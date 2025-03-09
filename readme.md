@@ -13,7 +13,7 @@
 ### nizarstream
 - ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-09)```
 ### streameast
-- ```https://streameast-scraper.vercel.app/streameast``` 🟢 ```(Working as of 2025-03-09)```
+- ```https://streameast-scraper.vercel.app/streameast``` 🔴 ```(Not working as of 2025-03-09)```
 ---
 
 ### Recommended Players

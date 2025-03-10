@@ -9,11 +9,11 @@
 ### pixelsport
 - ```https://pixelsport-scraper.vercel.app/pixelsport``` 🟢 ```(Working as of 2025-03-10)```
 ### aesport
-- ```https://aesport-scraper.vercel.app/aesport``` 🟢 ```(Working as of 2025-03-10)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-03-10)```
 ### nizarstream
-- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-10)```
+- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🔴 ```(Not working as of 2025-03-10)```
 ### streameast
-- ```https://streameast-scraper.vercel.app/streameast``` 🟢 ```(Working as of 2025-03-10)```
+- ```https://streameast-scraper.vercel.app/streameast``` 🔴 ```(Not working as of 2025-03-10)```
 ---
 
 ### Recommended Players

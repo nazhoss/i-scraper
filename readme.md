@@ -5,11 +5,11 @@
 ### streambtw
 - ```https://streambtw-scraper.vercel.app/streambtw``` 🟢 ```(Working as of 2025-03-14)```
 ### nbawebcast
-- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🔴 ```(Not working as of 2025-03-14)```
+- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🟢 ```(Working as of 2025-03-14)```
 ### pixelsport
 - ```https://pixelsport-scraper.vercel.app/pixelsport``` 🟢 ```(Working as of 2025-03-14)```
 ### aesport
-- ```https://aesport-scraper.vercel.app/aesport``` 🟢 ```(Working as of 2025-03-14)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-03-14)```
 ### nizarstream
 - ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-14)```
 ### streameast

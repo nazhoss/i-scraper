@@ -1,19 +1,19 @@
 ### roxiestreams
-- ```https://roxiestreams.vercel.app/roxiestreams``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://roxiestreams.vercel.app/roxiestreams``` 🔴 ```(Not working as of 2025-10-01)```
 ### tvpass
-- ```https://tvpass-scraper.vercel.app/tvpass``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://tvpass-scraper.vercel.app/tvpass``` 🔴 ```(Not working as of 2025-10-01)```
 ### streambtw
-- ```https://streambtw-scraper.vercel.app/streambtw``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://streambtw-scraper.vercel.app/streambtw``` 🔴 ```(Not working as of 2025-10-01)```
 ### nbawebcast
-- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🔴 ```(Not working as of 2025-10-01)```
 ### pixelsport
-- ```https://pixelsport-scraper.vercel.app/pixelsport``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://pixelsport-scraper.vercel.app/pixelsport``` 🔴 ```(Not working as of 2025-10-01)```
 ### aesport
-- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-10-01)```
 ### nizarstream
-- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🔴 ```(Not working as of 2025-10-01)```
 ### streameast
-- ```https://streameast-scraper.vercel.app/streameast``` 🔴 ```(Not working as of 2025-09-30)```
+- ```https://streameast-scraper.vercel.app/streameast``` 🔴 ```(Not working as of 2025-10-01)```
 ---
 
 ### Recommended Players
